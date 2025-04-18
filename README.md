@@ -1,10 +1,9 @@
-![GitHub Banner](https://github.com/user-attachments/assets/16d190c5-6345-4d6f-8b02-012720dfeae9)
-
-
-## Grab your copy on:
+## Grab your copy now!
 | Book Cover |  Digital Book (PDF) | Physical Book |    
 |----|----|----|
-| [<img src="https://github.com/user-attachments/assets/392f9b10-e9c4-4930-aff8-dd469fc8b20e" width="300px">](#) | [<img src="https://github.com/user-attachments/assets/9a6a1546-c29c-4a6c-815d-9150edeb74a7">](#) | [<img src="https://github.com/user-attachments/assets/3b79de6e-9469-49ee-aa48-9a283604a648">](#) |
+| [<img src="https://github.com/user-attachments/assets/4ff34271-998a-43c4-a989-e99d26c7a48d" width="300px">](#) | [<img src="https://github.com/user-attachments/assets/9a6a1546-c29c-4a6c-815d-9150edeb74a7">](#) | [<img src="https://github.com/user-attachments/assets/3b79de6e-9469-49ee-aa48-9a283604a648">](#) |
+
+![GitHub Banners (18)](https://github.com/user-attachments/assets/9be50f8f-8338-49f8-ae49-8b57d9ee2cb7)
 
 ## Table of contents
 ### AI Fundamentals
@@ -62,3 +61,5 @@
 - AI & Privacy: Protecting Your Data
 - Ethical Considerations in AI-Powered Decisions
 - Future of AI: Risks & Opportunities
+
+## AI Fundamentals
