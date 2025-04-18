@@ -2,10 +2,10 @@
 
 ## Table of contents
 ### Introduction
-- Welcome!
-- Why This Cheat Sheet?
-- Who Is This For?
-- How to use this book?
+- [Welcome!](###wellcome)
+- [Why This Cheat Sheet?](###why-this-cheat-sheet?)
+- [Who Is This For?](###who-is-this-for?)
+- [How to use this book?](###how-to-use-this-book?)
 ### AI Fundamentals
 - What is AI?
 - Key AI Terminologies
@@ -91,6 +91,40 @@ Think of this cheat sheet as your AI survival kit.
 - Jump to sections that are most relevant to your needs.
 
 ## AI Fundamentals
+Artificial Intelligence (AI) is the science of building machines that can think, learn, and make decisions like humans. It powers everything from chatbots and virtual assistants to self-driving cars and medical diagnostics. By analyzing data, recognizing patterns, and automating tasks, AI enhances efficiency, improves decision-making, and drives innovation across industries.
+### Types of AI:
+- **Narrow AI (Weak AI):** Performs specific tasks (e.g., Google Search, Siri).
+- **General AI (Strong AI):** Can understand, learn, and apply intelligence across various domains (not yet achieved).
+- **Super AI** Hypothetical AI surpassing human intelligence.
+
+### What is AI?
+Artificial Intelligence (AI) refers to computer systems that can mimic human intelligence by learning from data, recognizing patterns, and making decisions. It powers applications like chatbots, recommendation systems, and self-driving cars.
+
+### Key AI Terminologies
+- **Artificial Intelligence (AI):** Machines simulating human intelligence.
+- **Deep Learning (DL):** A subset of ML using neural networks for complex tasks.
+- **Machine Learning (ML)** AI that learns from data without explicit programming.
+- **Large Language Models (LLMs):** AI trained on vast text data (e.g., GPT-4, Claude, Gemini).
+- **Supervised Learning:** AI learns from labeled data (e.g., spam detection).
+- **Inference:** When an AI applies learned knowledge to new data.
+- **Training Data:** The dataset AI learns from to make predictions.
+- **Neural Networks:** Algorithms inspired by the human brain’s neuron connections.
+- **Unsupervised Learning:** AI finds patterns in unlabeled data (e.g., customer segmentation).
+- **Reinforcement Learning** AI learns through rewards and penalties (e.g., game-playing AI).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
